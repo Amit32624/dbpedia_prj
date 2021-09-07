@@ -12,8 +12,8 @@ Python versoon: 3.8.5
 -  Packages: pandas, numpy, sklearn, matplotlib, searborn, NLTK, genism
 
 ## Steps to run the fies:
-- First, the SPQRQL query is run from the file - data_extract.py
-- Secondly, once the data is extracted, data is cleaned using various data clearning operations - data_cleaning.ipynb file.
+- First, the SPQRQL query is run from the file - data_extract.py and the generated dataset is saved as 'medical_devices_data.csv' and 'medical_equipments_data.csv' files.
+- Secondly, once the data is extracted, data is cleaned using various data clearning operations - data_cleaning.ipynb file, here the files are saved as 'med_devs_clean_data.csv' and 'med_equips_clean_data.csv
 - Once the data cleaning operations are performed, two methods are implemented for data pre-processing and models are implemented.
 - clustering_word2Vec.ipynb
 - clustering_tf-idf.ipynb
