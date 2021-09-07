@@ -9,5 +9,5 @@
 
 ## Code and resources used
 Python versoon: 3.8.5
--Packages: pandas, numpy, sklearn, matplotlib, searborn, NLTK, genism
+-  Packages: pandas, numpy, sklearn, matplotlib, searborn, NLTK, genism
 
