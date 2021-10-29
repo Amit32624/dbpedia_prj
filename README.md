@@ -9,7 +9,7 @@
 
 ## Code and resources used
 Python versoon: 3.8.5
--  Packages: pandas, numpy, sklearn, matplotlib, searborn, NLTK, genism
+-  Packages: pandas, numpy, scikit-sklearn, matplotlib, searborn, NLTK, genism
 
 ## Steps to run the fies:
 - First, the SPQRQL query is run from the file - data_extract.py and the generated dataset is saved as 'medical_devices_data.csv' and 'medical_equipments_data.csv' files.
